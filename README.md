@@ -21,9 +21,14 @@ My main focus is turning business problems into working software: architecture, 
 
 ## Projects
 
-### GADE CLOUD
+### [GADE CLOUD](https://github.com/DenisGeide/gade-cloud-showcase)
 
-SaaS platform for digital subscriptions with Telegram bot, Mini App, billing, Marzban API, YooKassa and PostgreSQL.
+Commercial VPN service and SaaS platform for automated VPN subscription management.  
+Built Telegram bot, Telegram Mini App, YooKassa billing, Marzban API integration, Xray/VLESS/REALITY infrastructure, admin tools and subscription lifecycle automation.
+
+Live: [gadecloud.ru](https://gadecloud.ru)  
+Bot: [@gadecloud_bot](https://t.me/gadecloud_bot)
+
 
 ### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
 
