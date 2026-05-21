@@ -34,6 +34,18 @@ Bot: [@gadecloud_bot](https://t.me/gadecloud_bot)
 
 B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant architecture and Docker deployment. The system operates autonomously and can be integrated into any website by simply parsing the target data source or updating the JSON configuration file, without requiring core application changes.
 
+### [FLUX2DEV LoRA Pipeline](https://github.com/DenisGeide/flux2dev-lora-pipeline-showcase)
+
+Local generative AI pipeline for FLUX2DEV inference, ComfyUI workflow optimization and LoRA training on a local GPU workstation.
+
+Worked with heavy FLUX2DEV workflows, VRAM/OOM constraints, AI-Toolkit training configs, dataset preparation, caption files, trigger words and before/after result comparison.
+
+### [Image Inpainting Cleanup Pipeline](https://github.com/DenisGeide/image-inpainting-cleanup-showcase)
+
+AI-powered image cleanup pipeline for object/text removal, background reconstruction and visual asset restoration for owned or authorized images.
+
+The project focuses on inpainting workflows, mask preparation, background consistency, local generation tools and before/after result comparison.
+
 ### Fantik
 
 Local voice assistant with STT, TTS, LLM orchestration, wake-word scenarios and desktop automation.
