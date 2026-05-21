@@ -25,7 +25,7 @@ My main focus is turning business problems into working software: architecture, 
 
 SaaS platform for digital subscriptions with Telegram bot, Mini App, billing, Marzban API, YooKassa and PostgreSQL.
 
-### AI CRM + SED Platform
+### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
 
 B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant logic and Docker deployment.
 
