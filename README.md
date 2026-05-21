@@ -1,16 +1,47 @@
-## Hi there 👋
+# Denis Geide
 
-<!--
-**DenisGeide/DenisGeide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer / AI Engineer  
+Building backend systems, AI/RAG products, Telegram Web Apps and automation tools.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Full-Stack Developer and AI Engineer with product and entrepreneurial background.  
+I build backend services, AI integrations, CRM/SED systems, Telegram ecosystems and local LLM workflows.
+
+My main focus is turning business problems into working software: architecture, backend, APIs, databases, automation, AI pipelines, infrastructure and product delivery.
+
+## Tech Stack
+
+- Backend: Python, FastAPI, Asyncio, aiogram, Node.js, Express
+- Databases: PostgreSQL, SQLite, SQLAlchemy, Alembic, pgvector
+- AI: LLM, RAG, Ollama, Whisper/STT, TTS, LoRA, ComfyUI, FLUX
+- DevOps: Docker, Docker Compose, Linux, Redis, Nginx
+- Security: JWT, RBAC, signed URLs, audit logs, rate limiting
+- Frontend: HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
+
+## Projects
+
+### GADE CLOUD
+
+SaaS platform for digital subscriptions with Telegram bot, Mini App, billing, Marzban API, YooKassa and PostgreSQL.
+
+### AI CRM + SED Platform
+
+B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant logic and Docker deployment.
+
+### Fantik
+
+Local voice assistant with STT, TTS, LLM orchestration, wake-word scenarios and desktop automation.
+
+## Public GitHub Note
+
+Most of my recent work has been commercial, client-related, or local R&D: SaaS products, Telegram automation, AI/RAG systems, backend services, internal tools and product prototypes.
+
+Because of that, my public GitHub profile does not yet fully represent my actual engineering experience. I am currently preparing safe showcase versions of my projects with documentation, architecture notes and demo materials.
+
+RU: Большая часть моих последних проектов была коммерческой, клиентской или локальной R&D-разработкой, поэтому я постепенно оформляю публичные showcase-версии без приватных данных и чувствительной бизнес-логики.
+
+## Contacts
+
+- Telegram: [@Elayraaaa](https://t.me/Elayraaaa)
+- Email: [game15men@gmail.com](mailto:game15men@gmail.com)
