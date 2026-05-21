@@ -32,7 +32,7 @@ Bot: [@gadecloud_bot](https://t.me/gadecloud_bot)
 
 ### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
 
-B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant logic and Docker deployment.
+B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant architecture and Docker deployment. The system operates autonomously and can be integrated into any website by simply parsing the target data source or updating the JSON configuration file, without requiring core application changes.
 
 ### Fantik
 
