@@ -44,4 +44,4 @@ RU: Большая часть моих последних проектов бы�
 ## Contacts
 
 - Telegram: [@Elayraaaa](https://t.me/Elayraaaa)
-- Email: [game15men@gmail.com](mailto:game15men@gmail.com)
+- Email: [dbelaev188@gmail.com](mailto:dbelaev188@gmail.com)
