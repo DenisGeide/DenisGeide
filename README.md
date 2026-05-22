@@ -51,8 +51,6 @@ The project focuses on inpainting workflows, mask preparation, background consis
 
 ### [SocketLens](https://github.com/DenisGeide/socketlens)
 
-![SocketLens](https://raw.githubusercontent.com/DenisGeide/socketlens/main/docs/assets/branding/banner.png)
-
 Local-first WebSocket debugger for inspecting, replaying and demoing realtime app traffic.
 
 Stack: Tauri, Rust, React, TypeScript, Vite, TailwindCSS, Zustand.  
