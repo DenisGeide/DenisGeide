@@ -13,11 +13,14 @@ My main focus is turning business problems into working software: architecture, 
 ## Tech Stack
 
 - Backend: Python, FastAPI, Asyncio, aiogram, Node.js, Express
+- Desktop: Tauri, Rust
+- Frontend: React, TypeScript, Vite, TailwindCSS, Zustand, HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
 - Databases: PostgreSQL, SQLite, SQLAlchemy, Alembic, pgvector
+- Realtime: WebSocket, WebSocket proxying, event-driven debugging
 - AI: LLM, RAG, Ollama, Whisper/STT, TTS, LoRA, ComfyUI, FLUX
 - DevOps: Docker, Docker Compose, Linux, Redis, Nginx
 - Security: JWT, RBAC, signed URLs, audit logs, rate limiting
-- Frontend: HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
+
 
 ## Projects
 
@@ -45,6 +48,17 @@ Worked with heavy FLUX2DEV workflows, VRAM/OOM constraints, AI-Toolkit training 
 AI-powered image cleanup pipeline for object/text removal, background reconstruction and visual asset restoration for owned or authorized images.
 
 The project focuses on inpainting workflows, mask preparation, background consistency, local generation tools and before/after result comparison.
+
+### [SocketLens](https://github.com/DenisGeide/socketlens)
+
+![SocketLens](https://raw.githubusercontent.com/DenisGeide/socketlens/main/docs/assets/branding/banner.png)
+
+Local-first WebSocket debugger for inspecting, replaying and demoing realtime app traffic.
+
+Stack: Tauri, Rust, React, TypeScript, Vite, TailwindCSS, Zustand.  
+Features: Demo Mode, Direct WebSocket Mode, Proxy Mode, packet timeline, payload inspector, replay, session files, i18n, optional AI explain.
+
+Status: `v0.1.0-alpha` · License: `AGPL-3.0`
 
 ### Fantik
 
