@@ -3,7 +3,7 @@
 Full-Stack Developer / AI Engineer  
 Building backend systems, AI/RAG products, Telegram Web Apps and automation tools.
 
-## [About Me](https://github.com/DenisGeide/DenisGeide)
+## [About Me](https://github.com/DenisGeide/denis-geide-workspace)
 
 I am a Full-Stack Developer and AI Engineer with product and entrepreneurial background.  
 I build backend services, AI integrations, CRM/SED systems, Telegram ecosystems and local LLM workflows.
