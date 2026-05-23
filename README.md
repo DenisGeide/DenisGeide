@@ -12,15 +12,16 @@ My main focus is turning business problems into working software: architecture, 
 
 ## Tech Stack
 
-- Backend: Python, FastAPI, Asyncio, aiogram, Node.js, Express
-- Desktop: Tauri, Rust
-- Frontend: React, TypeScript, Vite, TailwindCSS, Zustand, HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
-- Databases: PostgreSQL, SQLite, SQLAlchemy, Alembic, pgvector
-- Realtime: WebSocket, WebSocket proxying, event-driven debugging
-- AI: LLM, RAG, Ollama, Whisper/STT, TTS, LoRA, ComfyUI, FLUX
-- DevOps: Docker, Docker Compose, Linux, Redis, Nginx
-- Security: JWT, RBAC, signed URLs, audit logs, rate limiting
-- Windows/Desktop: Python, PySide6, Windows API, pywin32, ctypes, psutil, PyInstaller, Inno Setup
+- **Backend:** Python, FastAPI, Asyncio, aiogram, Node.js, Express
+- **Desktop:** Tauri, Rust
+- **Frontend:** React, TypeScript, Vite, TailwindCSS, Zustand, HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
+- **Databases:** PostgreSQL, SQLite, SQLAlchemy, Alembic, pgvector
+- **Realtime:** WebSocket, WebSocket proxying, event-driven debugging
+- **AI:** LLM, RAG, Ollama, Whisper/STT, faster-whisper, TTS, Coqui TTS / XTTS, PyTorch, CUDA 12.8, LoRA, ComfyUI, FLUX
+- **DevOps:** Docker, Docker Compose, Linux, Redis, Nginx
+- **Security:** JWT, RBAC, signed URLs, audit logs, rate limiting
+- **Windows/Desktop:** Python, PySide6, Windows API, pywin32, ctypes, psutil, PyAutoGUI, pygetwindow, pyperclip, keyboard, mss, Pillow, sounddevice, soundfile, PyInstaller, Inno Setup
+
 
 
 ## Projects
