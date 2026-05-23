@@ -11,8 +11,7 @@ I build backend services, AI integrations, CRM/SED systems, Telegram ecosystems 
 My main focus is turning business problems into working software: architecture, backend, APIs, databases, automation, AI pipelines, infrastructure and product delivery.
 
 ## Tech Stack
-> This stack reflects tools and technologies I have used across my projects, experiments, and production work. Depth varies by area: some are core daily tools, others were used for specific features, prototypes, or integrations.
-> 
+
 - **Backend:** Python, FastAPI, Asyncio, aiogram, Node.js, Express
 - **Frontend:** React, TypeScript, Vite, TailwindCSS, Zustand
 - **Desktop/Windows:** PySide6, Windows API, pywin32, ctypes, Tauri, Rust
@@ -22,6 +21,8 @@ My main focus is turning business problems into working software: architecture, 
 - **DevOps:** Docker, Docker Compose, Linux, Redis, Nginx
 - **Security:** JWT, RBAC, signed URLs, audit logs, rate limiting
 - **Tooling:** PyInstaller, Inno Setup
+- 
+> This stack reflects tools and technologies I have used across my projects, experiments, and production work. Depth varies by area: some are core daily tools, others were used for specific features, prototypes, or integrations.
 
 ## Projects
 
