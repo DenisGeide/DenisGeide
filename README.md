@@ -44,7 +44,7 @@ Local-first WebSocket debugger for inspecting, replaying and demoing realtime ap
 Stack: Tauri, Rust, React, TypeScript, Vite, TailwindCSS, Zustand.  
 Features: Demo Mode, Direct WebSocket Mode, Proxy Mode, packet timeline, payload inspector, replay, session files, i18n, optional AI explain.
 
-Status: `v0.1.0-alpha` · License: `AGPL-3.0`
+Status: `v1.0.0-alpha` · License: `AGPL-3.0`
 
 ### [FLUX2DEV LoRA Pipeline](https://github.com/DenisGeide/flux2dev-lora-pipeline-showcase)
 
