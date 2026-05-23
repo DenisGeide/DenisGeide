@@ -66,9 +66,12 @@ AI-powered image cleanup pipeline for object/text removal, background reconstruc
 
 The project focuses on inpainting workflows, mask preparation, background consistency, local generation tools and before/after result comparison.
 
-### Fantik
+### [Fantik](https://github.com/DenisGeide/fantik-local-voice-assistant)
 
-Local voice assistant with STT, TTS, LLM orchestration, wake-word scenarios and desktop automation.
+Experimental local Windows voice assistant prototype with STT, TTS, Ollama-based LLM orchestration, wake-word scenarios, screen reading, file search and desktop automation.
+
+The project was built and optimized for a personal RTX/NVIDIA Windows workstation with optional CUDA 12.8 support, and is published as an unfinished open prototype that users can study, fork and adapt to their own PC setup.
+
 
 ## Public GitHub Note
 
