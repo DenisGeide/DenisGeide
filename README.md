@@ -69,6 +69,12 @@ Because of that, my public GitHub profile does not yet fully represent my actual
 
 RU: Большая часть моих последних проектов была коммерческой, клиентской или локальной R&D-разработкой, поэтому я постепенно оформляю публичные showcase-версии без приватных данных и чувствительной бизнес-логики.
 
+## Note About English
+
+English is not my native language, so I sometimes use AI tools like ChatGPT to help improve translations, wording, and documentation formatting.
+
+All technical decisions, architecture, implementation, and engineering work are still created and maintained by me.
+
 ## Contacts
 
 - Telegram: [@Elayraaaa](https://t.me/Elayraaaa)
