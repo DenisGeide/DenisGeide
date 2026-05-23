@@ -11,18 +11,17 @@ I build backend services, AI integrations, CRM/SED systems, Telegram ecosystems 
 My main focus is turning business problems into working software: architecture, backend, APIs, databases, automation, AI pipelines, infrastructure and product delivery.
 
 ## Tech Stack
-
+> This stack reflects tools and technologies I have used across my projects, experiments, and production work. Depth varies by area: some are core daily tools, others were used for specific features, prototypes, or integrations.
+> 
 - **Backend:** Python, FastAPI, Asyncio, aiogram, Node.js, Express
-- **Desktop:** Tauri, Rust
-- **Frontend:** React, TypeScript, Vite, TailwindCSS, Zustand, HTML, CSS, JavaScript, Telegram Web Apps, CRM interfaces
+- **Frontend:** React, TypeScript, Vite, TailwindCSS, Zustand
+- **Desktop/Windows:** PySide6, Windows API, pywin32, ctypes, Tauri, Rust
 - **Databases:** PostgreSQL, SQLite, SQLAlchemy, Alembic, pgvector
-- **Realtime:** WebSocket, WebSocket proxying, event-driven debugging
-- **AI:** LLM, RAG, Ollama, Whisper/STT, faster-whisper, TTS, Coqui TTS / XTTS, PyTorch, CUDA 12.8, LoRA, ComfyUI, FLUX
+- **Realtime:** WebSocket, WebSocket proxying
+- **AI/ML:** Ollama, Whisper/STT, XTTS, PyTorch, CUDA, LoRA, ComfyUI, FLUX
 - **DevOps:** Docker, Docker Compose, Linux, Redis, Nginx
 - **Security:** JWT, RBAC, signed URLs, audit logs, rate limiting
-- **Windows/Desktop:** Python, PySide6, Windows API, pywin32, ctypes, psutil, PyAutoGUI, pygetwindow, pyperclip, keyboard, mss, Pillow, sounddevice, soundfile, PyInstaller, Inno Setup
-
-
+- **Tooling:** PyInstaller, Inno Setup
 
 ## Projects
 
