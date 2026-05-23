@@ -20,6 +20,7 @@ My main focus is turning business problems into working software: architecture, 
 - AI: LLM, RAG, Ollama, Whisper/STT, TTS, LoRA, ComfyUI, FLUX
 - DevOps: Docker, Docker Compose, Linux, Redis, Nginx
 - Security: JWT, RBAC, signed URLs, audit logs, rate limiting
+- Windows/Desktop: Python, PySide6, Windows API, pywin32, ctypes, psutil, PyInstaller, Inno Setup
 
 
 ## Projects
@@ -40,6 +41,14 @@ Stack: Tauri, Rust, React, TypeScript, Vite, TailwindCSS, Zustand.
 Features: Demo Mode, Direct WebSocket Mode, Proxy Mode, packet timeline, payload inspector, replay, session files, i18n, optional AI explain.
 
 Status: `v0.1.0-alpha` · License: `AGPL-3.0`
+
+### [ShelfyGAI](https://github.com/DenisGeide/ShelfyGAI)
+
+Windows 10/11 utility for organizing hidden windows, taskbar overlays, pinning, and grouped workspace management.
+
+Stack: Python, PySide6, pywin32, ctypes, Windows API, psutil, PyInstaller, Inno Setup.
+
+Status: `v0.1.0-alpha` · License: `MIT`
 
 ### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
 
