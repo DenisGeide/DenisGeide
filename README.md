@@ -32,11 +32,6 @@ Built Telegram bot, Telegram Mini App, YooKassa billing, Marzban API integration
 Live: [gadecloud.ru](https://gadecloud.ru)  
 Bot: [@gadecloud_bot](https://t.me/gadecloud_bot)
 
-
-### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
-
-B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant architecture and Docker deployment. The system operates autonomously and can be integrated into any website by simply parsing the target data source or updating the JSON configuration file, without requiring core application changes.
-
 ### [SocketLens](https://github.com/DenisGeide/socketlens)
 
 Local-first WebSocket debugger for inspecting, replaying and demoing realtime app traffic.
@@ -45,6 +40,10 @@ Stack: Tauri, Rust, React, TypeScript, Vite, TailwindCSS, Zustand.
 Features: Demo Mode, Direct WebSocket Mode, Proxy Mode, packet timeline, payload inspector, replay, session files, i18n, optional AI explain.
 
 Status: `v1.0.0-alpha` · License: `AGPL-3.0`
+
+### [AI CRM + SED Platform](https://github.com/DenisGeide/ai-crm-sed-platform)
+
+B2B SaaS platform with FastAPI, PostgreSQL, Redis, WebSocket, AI/RAG pipeline, PDF workflow, RBAC, multi-tenant architecture and Docker deployment. The system operates autonomously and can be integrated into any website by simply parsing the target data source or updating the JSON configuration file, without requiring core application changes.
 
 ### [FLUX2DEV LoRA Pipeline](https://github.com/DenisGeide/flux2dev-lora-pipeline-showcase)
 
