@@ -4,9 +4,9 @@
 
 Building end-to-end products across local AI, backend systems, desktop software, Telegram ecosystems, and automation.
 
-[Main Projects](#main-projects) · [AI Projects](#ai-projects) · [Products & Tools](#products-and-tools) · [Labs](#labs) · [Tech Stack](#tech-stack) · [Contacts](#contacts)
+[About Me](https://github.com/DenisGeide/denis-geide-workspace) · [Main Projects](#main-projects) · [AI Projects](#ai-projects) · [Products & Tools](#products-and-tools) · [Labs](#labs) · [Tech Stack](#tech-stack) · [Contacts](#contacts)
 
-## About Me
+## [About Me](https://github.com/DenisGeide/denis-geide-workspace)
 
 I am a Full-Stack Developer and AI Engineer with product and entrepreneurial background.
 
@@ -38,7 +38,7 @@ Local-first AI orchestration platform connecting local models, coding agents, sc
 Resumable AI-assisted filmmaking pipeline that turns music and creative direction into a treatment, storyboard, generated visuals, animated shots, a draft edit, and a DaVinci-ready timeline.
 
 **Used for:** producing structured music-video projects from an initial track while preserving editable intermediate assets at every stage.<br>
-`Active development` · `Open-source release in preparation`<br>
+`Alpha` · `Open source` · `AGPL-3.0-only`<br>
 **Stack:** Python · Codex · Gemini · ComfyUI · Runway · DaVinci Resolve
 
 ### [lesson.exe](https://github.com/DenisGeide/lesson.exe)
@@ -65,10 +65,13 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 ### Products & Tools
 
 <details>
-<summary>Desktop utilities and developer tooling — <strong>2 projects</strong></summary>
+<summary>Desktop utilities, developer tools, and product showcases — <strong>5 projects</strong></summary>
 
+- [PureCSV](https://github.com/DenisGeide/PureCSV) — commercial Windows application for collecting, normalizing, auditing, and exporting product catalogs to Shopify-ready CSV. `Commercial · Proprietary`
+- [GEIDesk](https://github.com/DenisGeide/GEIDesk) — educational open-source help desk MVP with ticket workflows, workload-based assignment, SLA indicators, and analytics. `MIT · Educational MVP`
 - [SocketLens](https://github.com/DenisGeide/socketlens) — local-first WebSocket debugger for inspecting, replaying, and proxying realtime traffic. `AGPL-3.0 · Public alpha`
 - [ShelfyGAI](https://github.com/DenisGeide/ShelfyGAI) — offline Windows utility for shelving, grouping, pinning, and restoring application windows. `MIT · Public alpha`
+- [Chainik](https://github.com/DenisGeide/Chainik) — one-purpose Windows utility that detects the end of a kettle heating cycle through Tapo P110 power telemetry and sends a reminder. `MIT · Open source`
 
 </details>
 
@@ -87,10 +90,14 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 
 ## Tech Stack
 
-**Backend & data:** Python · FastAPI · Pydantic · SQLAlchemy · PostgreSQL · SQLite · Redis · WebSocket<br>
-**Frontend & desktop:** React · TypeScript · Vite · Tailwind CSS · Tauri · Rust · PySide6 · Windows API · Telegram Mini Apps<br>
-**AI & automation:** Ollama · Codex · local LLMs · RAG/pgvector · Whisper · ComfyUI · FLUX/LoRA · Playwright · n8n<br>
-**Infrastructure:** Docker · Linux · Nginx · CUDA · Xray/VLESS/REALITY · Marzban
+**Backend, data & realtime:** Python · FastAPI · Node.js/Express · Pydantic · SQLAlchemy · Alembic · PostgreSQL · SQLite · Redis · pgvector · pandas · REST APIs · WebSocket<br>
+**Frontend & desktop:** React · TypeScript · Vite · Zustand · Tailwind CSS · Tauri · Rust · PySide6 · Tkinter · Windows API · Telegram Mini Apps<br>
+**AI & automation:** Ollama · Open WebUI · local LLMs · RAG · Codex · Qwen Code · Whisper/STT · XTTS · Playwright · n8n<br>
+**Generative media:** ComfyUI · FLUX/LoRA · Gemini · Runway · DaVinci Resolve<br>
+**Infrastructure & delivery:** Docker · Docker Compose · Linux · Nginx · CUDA · GitHub Actions · PowerShell · PyInstaller<br>
+**Integrations:** Telegram API · YooKassa · Shopify CSV · Tapo · Marzban · Xray/VLESS/REALITY
+
+> This stack reflects tools and technologies I have used across my projects, experiments, and production work. Depth varies by area: some are core daily tools, while others were used for specific features, prototypes, or integrations.
 
 ## Contacts
 
