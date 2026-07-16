@@ -4,7 +4,7 @@
 
 Building end-to-end products across local AI, backend systems, desktop software, Telegram ecosystems, and automation.
 
-[About Me](https://github.com/DenisGeide/denis-geide-workspace) · [Main Projects](#main-projects) · [AI Projects](#ai-projects) · [Products & Tools](#products-and-tools) · [Labs](#labs) · [Tech Stack](#tech-stack) · [Contacts](#contacts)
+[About Me](https://github.com/DenisGeide/denis-geide-workspace) · [Main Projects](#main-projects) · [AI Projects](#ai-projects) · [Products & Tools](#products--tools) · [Labs](#labs) · [Tech Stack](#tech-stack) · [Contacts](#contacts)
 
 ## [About Me](https://github.com/DenisGeide/denis-geide-workspace)
 
@@ -65,13 +65,14 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 ### Products & Tools
 
 <details>
-<summary>Desktop utilities, developer tools, and product showcases — <strong>5 projects</strong></summary>
+<summary>Desktop utilities, developer tools, and product showcases — <strong>6 projects</strong></summary>
 
 - [PureCSV](https://github.com/DenisGeide/PureCSV) — commercial Windows application for collecting, normalizing, auditing, and exporting product catalogs to Shopify-ready CSV. `Commercial · Proprietary`
 - [GEIDesk](https://github.com/DenisGeide/GEIDesk) — educational open-source help desk MVP with ticket workflows, workload-based assignment, SLA indicators, and analytics. `MIT · Educational MVP`
 - [SocketLens](https://github.com/DenisGeide/socketlens) — local-first WebSocket debugger for inspecting, replaying, and proxying realtime traffic. `AGPL-3.0 · Public alpha`
 - [ShelfyGAI](https://github.com/DenisGeide/ShelfyGAI) — offline Windows utility for shelving, grouping, pinning, and restoring application windows. `MIT · Public alpha`
 - [Chainik](https://github.com/DenisGeide/Chainik) — one-purpose Windows utility that detects the end of a kettle heating cycle through Tapo P110 power telemetry and sends a reminder. `MIT · Open source`
+- [ReinstallKit](https://github.com/DenisGeide/ReinstallKit) — builds a reviewable recovery plan for applications, files, and Python environments before reinstalling Windows. `In development · Repository setup in progress`
 
 </details>
 
