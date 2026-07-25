@@ -1,6 +1,6 @@
 # Denis Geide
 
-**Full-Stack Developer / AI Engineer / Product Builder**
+**Applied AI / LLM Systems Engineer · Full-Stack Developer · Product Builder**
 
 Building end-to-end products across local AI, backend systems, desktop software, Telegram ecosystems, and automation.
 
