@@ -27,9 +27,9 @@ Production VPN service and SaaS platform combining a Telegram bot, Mini App, bil
 
 ### [Locestra](https://github.com/DenisGeide/locestra)
 
-Local-first AI orchestration platform connecting local models, coding agents, scoped memory, repository knowledge, browser tools, and explicitly approved cloud escalation behind one interface.
+Local-first AI orchestration platform connecting local models, coding agents, scoped memory, repository knowledge, browser tools, and explicitly approved cloud escalation behind one interface. Includes a versioned routing EvalKit with 117 synthetic bilingual regression cases and reproducible reports.
 
-**Used for:** routing engineering tasks between local LLMs and coding agents while keeping context, memory, permissions, and evidence under local control.<br>
+**Used for:** routing engineering tasks between local LLMs and coding agents while keeping context, memory, permissions, and evaluation evidence under local control.<br>
 `Alpha` · `Open source` · `AGPL-3.0-only`<br>
 **Stack:** Python · FastAPI · Ollama · Open WebUI · Qwen Code · Codex · Docker
 
@@ -54,10 +54,11 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 ### AI Projects
 
 <details>
-<summary>Autonomous agents, RAG systems, voice interfaces, and applied local AI — <strong>3 projects</strong></summary>
+<summary>Autonomous agents, RAG systems, evaluation, voice interfaces, and applied local AI — <strong>4 projects</strong></summary>
 
 - [ScoutPilot](https://github.com/DenisGeide/ScoutPilot) — autonomous browser agent with semantic navigation, policy-gated actions, and replayable reports. `Public prototype`
-- [AI CRM + SED](https://github.com/DenisGeide/ai-crm-sed-platform) — multi-tenant CRM and document workflow platform with RAG, realtime events, RBAC, and auditability. `Commercial showcase`
+- [LexiGrade](https://github.com/DenisGeide/LexiGrade) — open ML lab with a 6,000-word ESDB/SCOWL benchmark, grouped evaluation, a reproducible statistical baseline, Transformer training loop, CLI, and FastAPI inference. `Apache-2.0 · Open dataset`
+- [AI CRM + SED](https://github.com/DenisGeide/ai-crm-sed-platform) — CRM and document-workflow showcase with an open bilingual RAG Quality Lab, intent/action contracts, retrieval gold cases, answer checks, and reproducible reports. `Apache-2.0 · Showcase`
 - [Fantik](https://github.com/DenisGeide/fantik-local-voice-assistant) — local Windows voice assistant for speech, screen, file, and desktop automation. `MIT · Experimental`
 
 </details>
@@ -81,7 +82,7 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 <details>
 <summary>Generative AI, local GPU workflows, and engineering experiments — <strong>3 projects</strong></summary>
 
-- [FLUX2DEV LoRA Pipeline](https://github.com/DenisGeide/flux2dev-lora-pipeline-showcase) — local inference, LoRA training, VRAM optimization, and reproducible ComfyUI workflows. `MIT · Showcase`
+- [FLUX2DEV LoRA Pipeline](https://github.com/DenisGeide/flux2dev-lora-pipeline-showcase) — reproducible FLUX LoRA experiments with sanitized AI-Toolkit configs, dataset validation, training-log analysis, failure documentation, and ComfyUI evaluation. `MIT · Showcase`
 - [Image Inpainting Cleanup](https://github.com/DenisGeide/image-inpainting-cleanup-showcase) — object removal, background reconstruction, and image restoration for owned or authorized assets. `MIT · Showcase`
 - [Developer Workspace](https://github.com/DenisGeide/denis-geide-workspace) — sanitized overview of my local AI workstation, mobile setup, and engineering environment. `MIT · Setup showcase`
 
@@ -93,8 +94,8 @@ Free, game-inspired English learning platform with structured 45-minute lessons,
 
 **Backend, data & realtime:** Python · FastAPI · Node.js/Express · Pydantic · SQLAlchemy · Alembic · PostgreSQL · SQLite · Redis · pgvector · pandas · REST APIs · WebSocket<br>
 **Frontend & desktop:** React · TypeScript · Vite · Zustand · Tailwind CSS · Tauri · Rust · PySide6 · Tkinter · Windows API · Telegram Mini Apps<br>
-**AI & automation:** Ollama · Open WebUI · local LLMs · RAG · Codex · Qwen Code · Whisper/STT · XTTS · Playwright · n8n<br>
-**Generative media:** ComfyUI · FLUX/LoRA · Gemini · Runway · DaVinci Resolve<br>
+**AI, ML & automation:** Ollama · Open WebUI · local LLMs · RAG · scikit-learn · PyTorch · model evaluation · MLflow/W&B · Codex · Qwen Code · Whisper/STT · XTTS · Playwright · n8n<br>
+**Generative media:** ComfyUI · FLUX/LoRA · AI-Toolkit · Gemini · Runway · DaVinci Resolve<br>
 **Infrastructure & delivery:** Docker · Docker Compose · Linux · Nginx · CUDA · GitHub Actions · PowerShell · PyInstaller<br>
 **Integrations:** Telegram API · YooKassa · Shopify CSV · Tapo · Marzban · Xray/VLESS/REALITY
 
